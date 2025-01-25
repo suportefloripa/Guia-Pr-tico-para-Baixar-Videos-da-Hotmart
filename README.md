@@ -1,4 +1,8 @@
 # Guia Prático para Baixar Vídeos da Hotmart  
+> **⚠️ AVISO LEGAL**  
+> Este guia é destinado **apenas para fins educacionais e testes técnicos**.  
+> - Respeite os direitos autorais e os termos de uso da Hotmart.  
+> - Você é responsável pelo uso que fizer desta informação.  
 
 ## Passo a Passo Simplificado  
 
