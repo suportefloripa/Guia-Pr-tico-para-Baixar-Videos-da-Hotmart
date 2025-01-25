@@ -8,7 +8,7 @@
 
 ### 1. Instale a extensão "FetchV"  
 - Adicione ao seu navegador para capturar links de vídeos da Hotmart.  
-- **Link da extensão**: [FetchV](https://fetchv.net) *(substitua pelo link real)*  
+- **Link da extensão**: [FetchV](https://fetchv.net)
 
 ---
 
